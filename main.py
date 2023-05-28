@@ -114,6 +114,6 @@ while run:
     dsp.blit(name, (10, 10))
     fps = clock.get_fps()
     pg.display.set_caption(f"{title} - {int(fps)} FPS")
-    clock.tick(9999)
+    clock.tick(60)
     pg.display.flip()
 
