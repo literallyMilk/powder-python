@@ -1,0 +1,6 @@
+stne
+Stone. Frequently found underground.
+AAAAAA
+False
+False
+100

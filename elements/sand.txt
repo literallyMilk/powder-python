@@ -1,0 +1,6 @@
+sand
+Sand. Common material, frequently found in deserts.
+DEB887
+False
+True
+100

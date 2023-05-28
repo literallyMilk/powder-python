@@ -1,0 +1,6 @@
+milk
+Milk.
+FFFFFF
+True
+False
+61

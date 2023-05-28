@@ -1,0 +1,6 @@
+watr
+Water. The necessary ingredient for growing plants.
+68B3E5
+True
+False
+60

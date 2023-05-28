@@ -1,0 +1,6 @@
+pbbl
+Pebble. Stone's powdery companion.
+CCCCCC
+False
+True
+100
